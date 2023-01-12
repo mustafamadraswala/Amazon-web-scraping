@@ -1,2 +1,2 @@
 # Amazon-web-scraping
-Amazon webs craping with python and Beautiful Soup
+Amazon web scraping with Python and Beautiful Soup
